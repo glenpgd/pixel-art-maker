@@ -1,0 +1,27 @@
+#smallSquares {
+width: 50em;
+height: 27em;
+margin: auto;
+
+}
+
+#varietyOfColors {
+margin: auto;
+}
+
+.square {
+  height: 1em;
+  width: 1em;
+  background-color: white;
+  border: 1px solid gray;
+  float:left
+}
+
+.colors {
+  height: 4em;
+  width: 4em;
+  border-radius: 50%;
+  float: left;
+
+
+}
